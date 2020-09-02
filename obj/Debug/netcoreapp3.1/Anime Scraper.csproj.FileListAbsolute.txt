@@ -1,0 +1,36 @@
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/obj/Debug/netcoreapp3.1/Anime Scraper.csprojAssemblyReference.cache
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/obj/Debug/netcoreapp3.1/Anime Scraper.AssemblyInfoInputs.cache
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/obj/Debug/netcoreapp3.1/Anime Scraper.AssemblyInfo.cs
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/Anime Scraper
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/Anime Scraper.deps.json
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/Anime Scraper.runtimeconfig.json
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/Anime Scraper.runtimeconfig.dev.json
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/Anime Scraper.dll
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/Anime Scraper.pdb
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/Fizzler.dll
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/FSharp.Core.dll
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/HtmlAgilityPack.dll
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/ScrapySharp.Core.dll
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/ScrapySharp.dll
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/cs/FSharp.Core.resources.dll
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/de/FSharp.Core.resources.dll
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/en/FSharp.Core.resources.dll
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/es/FSharp.Core.resources.dll
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/fr/FSharp.Core.resources.dll
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/it/FSharp.Core.resources.dll
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/ja/FSharp.Core.resources.dll
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/ko/FSharp.Core.resources.dll
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/pl/FSharp.Core.resources.dll
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/pt-BR/FSharp.Core.resources.dll
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/ru/FSharp.Core.resources.dll
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/tr/FSharp.Core.resources.dll
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/zh-Hans/FSharp.Core.resources.dll
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/zh-Hant/FSharp.Core.resources.dll
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/obj/Debug/netcoreapp3.1/Anime Scraper.csproj.CopyComplete
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/obj/Debug/netcoreapp3.1/Anime Scraper.dll
+/home/af2111/Schreibtisch/Coding/C#/Anime Scraper/obj/Debug/netcoreapp3.1/Anime Scraper.pdb
